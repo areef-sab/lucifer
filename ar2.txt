@@ -1,0 +1,11 @@
+A computer is a programmable electronic device that processes data according to a set of instructions (software) to perform tasks. It accepts input, processes it, produces output, and stores information, using physical components called hardware and the instructions that tell them what to do called software. 
+How a computer works
+Input: The process begins when a user or another device provides data or commands, typically through a keyboard, mouse, or sensor. 
+Processing: The data is then processed by the central processing unit (CPU), which performs mathematical and logical operations based on the software's instructions. 
+Output: The results of the processing are presented to the user as output, which can be seen on a screen, printed to paper, or sent to another device. 
+Storage: Computers can store data and programs on storage devices for later use. 
+Key components
+Hardware: The physical parts of the computer, including the monitor, keyboard, CPU, and internal components like transistors and circuits. 
+Software: The sets of instructions, or programs, that direct the hardware's actions and allow it to perform specific tasks, such as word processors, web browsers, and games. 
+Types of computers
+Computers come in many shapes and sizes to suit different needs, including desktops, laptops, tablets, and powerful supercomputers.  
